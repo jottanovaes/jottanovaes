@@ -11,5 +11,6 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`
 - 💬 Ask me about **react and doctor who**
 - 📫 How to reach me **jottanovaes@gmail.com**
+- Linkedin https://www.linkedin.com/in/jottanovaes/
 
 inspired by [Caneco](https://github.com/caneco/caneco)
