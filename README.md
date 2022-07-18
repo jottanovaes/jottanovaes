@@ -1,7 +1,7 @@
 ### Yo! I'm Jotta 👋
 
 #### A curious about what we can see with a few (or a bunch of) code lines
-#### Working in Belo Horizonte, Brazil
+#### Working in Montes Claros, Brazil
 
 ##### ME
 - 🌱 I’m currently learning **React Native, UI/UX, Docker**
