@@ -4,7 +4,7 @@
 #### Working in Montes Claros, Brazil
 
 ##### ME
-- 🌱 I’m currently learning **React Native, UI/UX, Docker**
+- 🌱 I’m currently learning **Next.js, UI/UX, English**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`
 - 💬 Ask me about **react and doctor who**
 - 📫 How to reach me **jottanovaes@gmail.com**
